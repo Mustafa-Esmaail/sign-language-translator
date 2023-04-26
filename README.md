@@ -33,3 +33,4 @@ You can also change styles by modifying the ```public/css``` files.
 
 ##### Issaaf kattan
 # sign-language-translator
+# sign-language-translator
